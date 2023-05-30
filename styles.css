@@ -5,7 +5,7 @@
 .box-model {
     width: 300px;
     background-color:lightblue;
-	border:15 px solid blue;
+	border:15px solid blue;
 	margin:20px;
 	padding:50px;
 }
